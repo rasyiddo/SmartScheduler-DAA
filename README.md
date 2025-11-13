@@ -17,5 +17,7 @@ Untuk project ini saya menggunakan pendekatan Greedy hybrid: Earliest Deadline F
 
 yang dimana pendekatan ini mengurutkan job berdasarkan deadline (terkecil → terbesar), bila deadline sama gunakan processing time terkecil terlebih dahulu. Pendekatan ini memberikan keseimbangan yang baik antara performa (banyak job yang selesai on‑time) dan efisiensi komputasi (skala besar).
 
-Cara menjalankan program ini adalah dengan menggunakan Visual Studio, lalu buat project baru dan tambahkan src/main.cpp .
+Cara menjalankan program ini adalah dengan menggunakan Visual Studio, lalu buat project baru dan tambahkan repository ini. 
+
+lalu jalankan main.cpp .
 
